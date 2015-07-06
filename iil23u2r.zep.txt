@@ -1,0 +1,19 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch wenquan0hf/master
+# Your branch is up-to-date with 'remotes/wenquan0hf/master'.
+#
+# Changes to be committed:
+#	modified:   model-limited-modify.md
+#	modified:   option-type.md
+#	modified:   overlap-schema-definition.md
+#	modified:   pattern-four.md
+#	modified:   pattern-one.md
+#	modified:   pattern-three.md
+#	modified:   pattern-two.md
+#	modified:   patterns.md
+#	modified:   sealed-classes.md
+#	modified:   simple-model.md
+#
+
